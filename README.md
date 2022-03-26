@@ -7,6 +7,10 @@
  * SSH Linux, clique [aqui](LINUX.md).
  * SSH Windows, clique [aqui](WINDOWS.md).
 
+ ## Links úteis
+  * Git clique [aqui](https://git-scm.com/downloads).
+  * GH clique [aqui](https://github.com/cli/cli).
+
 
 # Professor Douglas Morais
 ## GamaAcademy
