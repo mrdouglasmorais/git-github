@@ -49,8 +49,9 @@ Para copiar a chave do bash, digite o seguinte comando:
 
 A chave agora está no nosso ctrl+v :P
 
-### Agora adicione ao seu Github
+### Agora adicione ao seu Github chave SSH
 
+# Esta ação é só precisa ser implementada 1 vez.
 
 
 # Professor Douglas Morais
